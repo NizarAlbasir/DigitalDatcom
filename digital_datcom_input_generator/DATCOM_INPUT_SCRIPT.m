@@ -1,3 +1,7 @@
+% Written by Nizar Albasir
+% Contact me via Email:nezaralbasir@gmail.com
+
+
 function [] = DATCOM_INPUT_SCRIPT()
 [~,~,row]=xlsread('inputExcel.xlsx');
 
